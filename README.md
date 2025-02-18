@@ -1,4 +1,4 @@
-# EVMarket-India
+
  <h1 align="center">Electric Vehicle Market Segmentation</h1>
 
 <div align= "center"><img src="images/2.jpg" width="400" height="350"/>
