@@ -10,16 +10,11 @@
 - [Table of Contents](#table-of-contents)
 - [:warning: Frameworks and Libraries](#warning-frameworks-and-libraries)
 - [:book: Data Preprocessing](#book-data-preprocessing)
-- [:link: Download](#link-download)
-- [:key: Prerequisites](#key-prerequisites)
-- [🚀&nbsp; Installation](#-installation)
-- [:bulb: How to Run](#bulb-how-to-run)
 - [:key: Results](#key-results)
 - [:clap: And it's done!](#clap-and-its-done)
 - [:raising_hand: Citation](#raising_hand-citation)
 - [:beginner: Future Goals](#beginner-future-goals)
-- [:heart: Owner](#heart-owner)
-- [:eyes: License](#eyes-license)
+
 
 ## :warning: Frameworks and Libraries
 
@@ -46,3 +41,29 @@ required format. It is used to deal with noises, duplicates, and missing values 
 dataset. Data pre-processing has the activities like importing datasets, splitting
 datasets, attribute scaling, etc. Preprocessing of data is required for improving the
 accuracy of the model.
+## :key: Results
+
+ **Correlation Matrix for the data set using  <code>Seaborn</code>**
+
+<img src=images/corr.png width=650 height=460 ></img>
+
+ **Dendrogram for our data:**
+
+<img src=images/dendrogram.png width=650 height=400 ></img>
+
+ **ScreePlot for our data:**
+
+<img src=images/screeplot.png width=650 height=400 ></img>
+
+ **Cluster analysis using <code>silhouette</code>:**
+
+<img src=images/silhouette.png width=650 height=400 ></img>
+
+**Final Results:**
+
+<img src=images/density.png width=650 height=400 ></img>
+
+
+## :beginner: Future Goals
+
+This study endeavoured to present EV taxonomy using an a-priori approach to categorize potential EV buyers into  ub-segments of young and educated consumers and tested  eticulously with a blended approach of multivariate and  bivariate techniques
