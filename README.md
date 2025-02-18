@@ -12,7 +12,6 @@
 - [:book: Data Preprocessing](#book-data-preprocessing)
 - [:key: Results](#key-results)
 - [:clap: And it's done!](#clap-and-its-done)
-- [:raising_hand: Citation](#raising_hand-citation)
 - [:beginner: Future Goals](#beginner-future-goals)
 
 
