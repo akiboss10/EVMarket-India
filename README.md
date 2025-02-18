@@ -11,7 +11,6 @@
 - [:warning: Frameworks and Libraries](#warning-frameworks-and-libraries)
 - [:book: Data Preprocessing](#book-data-preprocessing)
 - [:key: Results](#key-results)
-- [:clap: And it's done!](#clap-and-its-done)
 - [:beginner: Future Goals](#beginner-future-goals)
 
 
